@@ -1,3 +1,5 @@
+Read by Andre Michalowski on October 16th 2019
+
 # JS-Exercise-Prototype
 
 [LAUNCH ON CODESANDBOX 🚀](https://codesandbox.io/s/github/LambdaSchool/JS-Exercise-Prototype)
